@@ -1,4 +1,4 @@
-section{
+section.services{
     margin-left: 500px;
     margin-top: 20px;
 }
@@ -8,6 +8,7 @@ header{
 footer{
     margin: 0;
 }
+
 
 .effectsilver{
     color: #fff;
@@ -79,4 +80,10 @@ section.contact{
 button#op1{
     width: 300px;
     bottom: 0%;
+}
+div.contacter{
+    padding-top: 20px;
+    padding-bottom: 1000px;
+    margin: 0;
+    text-align: center;
 }
